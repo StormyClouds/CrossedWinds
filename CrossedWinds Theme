@@ -1,0 +1,38 @@
+{
+    "room": "Crossed Winds",
+    "author": "Stormy Clouds",
+    "css": "https://dl.dropbox.com/s/rpkwynwer6hq4z6/ElectrithemeExtension.css?dl=0",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#00D8BF",
+        "cohost": "#35B7FD",
+        "manager": "#6600FF",
+        "bouncer": "#9933FF",
+        "rdj": "#FF00FF",
+        "subscriber": "#FFCC00",
+        "friend": "#00CC00",
+        "user": "#FFFFFF"
+    },
+ "images": {
+        "background": "http://i.imgur.com/zSMRtE6.png",
+        "playback": "http://i.imgur.com/Mxj1yzd.png",
+        "admin": null,
+        "ambassador": null,
+        "host": "http://i.imgur.com/BIO1TqT.gif",
+        "cohost": "http://i.imgur.com/0Jrzy4t.png",
+        "manager": "http://i.imgur.com/wumzCq4.png",
+        "bouncer": "http://i.imgur.com/FuSC7d4.png",
+        "rdj": "http://i.imgur.com/VTztbj9.png",
+        "subscriber": "http://i.imgur.com/Tibtg2B.gif"
+    }
+}
