@@ -12,8 +12,8 @@
         "forceSmartVote": false
     },
     "ccc": {
-        "admin": null,
-        "ambassador": null,
+        "admin": "#CCFF00",
+        "ambassador": "#00FF6E",
         "host": "#00D8BF",
         "cohost": "#35B7FD",
         "manager": "#6600FF",
@@ -34,5 +34,57 @@
         "bouncer": "http://i.imgur.com/FuSC7d4.png",
         "rdj": "http://i.imgur.com/VTztbj9.png",
         "subscriber": "http://i.imgur.com/Tibtg2B.gif"
+    }
+}
+
+
+
+
+
+
+
+{
+    "room": "Crossed Winds",
+    "author": "Stormy Clouds",
+    "icon": "http://i.imgur.com/ud13DuF.gif",
+    "css": "https://raw.githubusercontent.com/StormyClouds/CrossedWinds/master/CrossedWindsThemeExtension.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#CCFF00",
+        "ambassador": "#00FF6E",
+        "host": "#00D8BF",
+        "cohost": "#35B7FD",
+        "manager": "#6600FF",
+        "bouncer": "#9933FF",
+        "rdj": "#FF00FF",
+        "subscriber": "#ECBE04",
+        "silversubscriber": "#F0F0F0",
+        "friend": "#77AF6D",
+        "user": "#B1B1B1"
+    },
+    "images": {
+        "background": "http://i.imgur.com/zSMRtE6.png",
+        "playback": "http://i.imgur.com/Mxj1yzd.png",
+        "admin": "http://i.imgur.com/JFsn5HY.png",
+        "ambassador": "http://i.imgur.com/QHZ2cP3.png",
+        "host": "http://i.imgur.com/4O2bpFE.png",
+        "cohost": "http://i.imgur.com/AHw4sjR.png",
+        "manager": "http://i.imgur.com/ftFd7uo.png",
+        "bouncer": "http://i.imgur.com/0yBcyTs.png",
+        "rdj": "http://i.imgur.com/YSzVs24.png",
+        "subscriber": "http://i.imgur.com/WUkdVqo.png",
+        "silversubscriber": "http://i.imgur.com/NUrJJJv.png",
+    },
+    "emotes": {
+      "emote_name": null
     }
 }
