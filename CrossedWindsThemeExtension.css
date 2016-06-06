@@ -1,10 +1,10 @@
 /* Created By Stormy Clouds */
 /* ------------------- */
 #room-bar .icon-room {
-	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/bouton.png);
+	background: url(http://i.imgur.com/ud13DuF.gif);
 }
 #room-bar .bar-value{
-	color: #00dfff;
+	color: #9612D9;
 }
 #room-name {
 	text-shadow: 2px 1px 0px black;
@@ -18,13 +18,13 @@
 }
 /* PlayBack */
 #playback .background img {
-	visibility: hidden;
+        url(http://i.imgur.com/ud13DuF.gif);
 }
 .torch {
 	visibility: hidden;
 }
 #playback-container {
-	border: 1px #01fff9 solid;
+	border: 1px #a832ff solid;
 }
 #playback-container {
 	border-top: none;
