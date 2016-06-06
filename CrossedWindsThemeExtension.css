@@ -1,8 +1,5 @@
-#room-bar .icon-room {
- background: url(http://i.imgur.com/k2SKY5l.gif);
-}
 #room-bar .bar-value{
- color: #00dfff;
+ color:  #FF0000;
 }
 #room-name {
  text-shadow: 2px 1px 0px black;
