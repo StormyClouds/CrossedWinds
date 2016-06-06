@@ -2,7 +2,7 @@
     "room": "Crossed Winds",
     "author": "Stormy Clouds",
     "icon": "http://i.imgur.com/ud13DuF.gif",
-    "css": "https://github.com/StormyClouds/CrossedWinds/blob/master/CrossedWindsThemeExtension.css",
+    "css": "https://raw.githubusercontent.com/StormyClouds/CrossedWinds/master/CrossedWindsThemeExtension.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
