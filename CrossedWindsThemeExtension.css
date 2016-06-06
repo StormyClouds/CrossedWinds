@@ -1,12 +1,10 @@
-/* Created By ProDjMx for TagPro room */
+/* Created By Stormy Clouds */
 /* ------------------- */
-/* Customs Badges */
-/* Room Bar / Meta */
 #room-bar .icon-room {
-	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/bouton.png);
+	background: url(http://i.imgur.com/ud13DuF.gif);
 }
 #room-bar .bar-value{
-	color: #00dfff;
+	color: #9612D9;
 }
 #room-name {
 	text-shadow: 2px 1px 0px black;
@@ -20,100 +18,92 @@
 }
 /* PlayBack */
 #playback .background img {
-	visibility: hidden;
+	background: url(http://i.imgur.com/Mxj1yzd.png);
 }
 .torch {
 	visibility: hidden;
 }
 #playback-container {
-	border: 1px #01fff9 solid;
-}
-#playback-container {
 	border-top: none;
 }
-#playback-container {
-	background-color: rgba(0, 0, 0, 0.80);
-	box-shadow: 0px 3px 12px 0px rgba(50, 50, 50, 0.75);
-}
-/* Icones Grades et Couleurs Grades */
 .icon-chat-ambassador + span {
-	color: #46E065;
+	color: #00FF6E;
 }
-/*.group.host {
-	color: #FF446A;
-} */
+.group.host {
+	color: #00D8BF;
+}
 .icon-chat-host {
-	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/host.png);
+	background: url(http://i.imgur.com/4O2bpFE.png);
 }
 .icon-chat-host + span {
-	color: #46E065 !important;
+	color: #00D8BF !important;
 }
 .groupe.cohost {
-	color: #DBFF57;
+	color: #35B7FD;
 }
 .icon-chat-cohost {
-	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/co-host.png);
+	background: url(http://i.imgur.com/AHw4sjR.png);
 }
 .icon-chat-cohost + span {
-	color: #DBFF57 !important;
+	color: #35B7FD !important;
 }
 .group.manager {
-    color: #FFB14A;
+    color: #6600FF;
 }
 .icon-chat-manager {
-    background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/manager.png);
+    background: url(http://i.imgur.com/ftFd7uo.png);
 }
 .icon-chat-manager + span {
-	color: #FFB14A !important;
+	color: #6600FF !important;
 }
 .group.bouncer {
-	color: #ff446a;
+	color: #9933FF;
 }
 .icon-chat-bouncer {
-	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/bouncer.png);
+	background: url(http://i.imgur.com/0yBcyTs.png);
 }
 .icon-chat-bouncer + span {
-	color: #ff446a !important;
+	color: #9933FF !important;
 }
 .group.dj {
-	color: #DF6BFF;
+	color: #FF00FF;
 }
 .icon-chat-dj {
-	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/djrs.png);
+	background: url(http://i.imgur.com/YSzVs24.png);
 }
 .icon-chat-dj + span {
-	color: #DF6BFF !important;
+	color: #FF00FF !important;
 }
 .icon.icon-chat-subscriber {
-	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/subscriber.png);
+	background: url(http://i.imgur.com/WUkdVqo.png);
 }
 .icon.icon-chat-subscriber + span {
-	color: #C59840;
+	color: #ECBE04;
 }
 .icon.icon-chat-silver-subscriber {
-	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/subscriber-silver.png) ;
+	background: url(http://i.imgur.com/NUrJJJv.png) ;
 }
 .icon.icon-chat-silver-subscriber + span.name {
-	color: #8694b2 !important;
+	color: #F0F0F0 !important;
 }
 .is-subscriber.silver .name {
-	color: #8694b2 !important;
+	color: #F0F0F0 !important;
 }
 #chat .from .un {
-	color: #42A5DC;
+	color: #F70000;
 }
 #waitlist .user {
-	color: #42A5DC;
+	color: #F70000;
 }
 /* Transparence */
 #app-menu.in-room {
-	background-color: rgba(0, 0, 0, 0.30);
+	background-color: #5A0984;
 }
 .app-header {
-	background-color: rgba(0, 0, 0, 0.70);
+	background-color: #5A0984;
 }
 #history-button {
-	background-color: rgba(0, 0, 0, 0.30);
+	background-color: #0A5F53;
 	border-right: 1px solid black;
 }
 #rs-skip-button {
@@ -121,25 +111,25 @@
 	border-right: 1px solid black;
 }
 .app-right {
-	background: rgba(0,0,0,0.7) !important;
+	background: #6D0000 !important;
 }
 #chat-input {
 	border-radius: 13px;
 }
 .friends {
-	background: rgba(0,0,0,0.00) !important;
+	background: #110119 !important;
 }
 #room-settings {
-	background: rgba(0, 0, 0, 0.90);
+	background: #0A011D;
 }
 #footer-user .info.showing {
-	background-color: rgba(0, 0, 0, 0.90);
+	background-color: #150025;
 }
 #footer {
-	background-color: rgba(0, 0, 0, 0.70);
+	background-color: #150025;
 }
 #dj-button {
-	background: rgba(0, 0, 0, 0.70) none repeat scroll 0 0;
+	background: #0C0029 none repeat scroll 0 0;
 }
 #playlist-panel {
 	background: rgba(0, 0, 0, 0.90);
@@ -149,26 +139,26 @@
 }
 /* Correction transparence */
 #app-menu.in-room.open {
-	background-color: #1c1f25;
+	background-color: #63188C;
 }
 .header-panel-button {
-	background-color: #1c1f25;
+	background-color: #000000;
 	border: 1px solid black;
 }
 .header-panel-button.selected {
-	background-color: #0a0a0a;
+	background-color: #3E2500;
 }
 #chat-header {
-	background-color: #0a0a0a;
+	background-color: #420052;
 }	
 #user-lists .header {
-	background-color: #0a0a0a;
+	background-color: #050148;
 }
 #waitlist .header {
-	background-color: #0a0a0a;
+	background-color: #737500;
 }
 .friends .list-header {
-	background-color: #0a0a0a;
+	background-color: #054A00;
 }
 #rcs-menu .header {
 	background-color: #0a0a0a;
@@ -196,7 +186,7 @@
 	color: #FF0027;
 }
 #rcs-appright-button {
-	opacity: 0.7;
+	opacity: 0.3;
 }
 #rcs-appright-button:hover {
 	opacity: 1;
