@@ -1,10 +1,12 @@
-/* Created By Stormy Clouds */
+/* Created By ProDjMx for TagPro room */
 /* ------------------- */
+/* Customs Badges */
+/* Room Bar / Meta */
 #room-bar .icon-room {
-	background: url(http://i.imgur.com/ud13DuF.gif);
+	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/bouton.png);
 }
 #room-bar .bar-value{
-	color: #9612D9;
+	color: #00dfff;
 }
 #room-name {
 	text-shadow: 2px 1px 0px black;
@@ -18,13 +20,13 @@
 }
 /* PlayBack */
 #playback .background img {
-        url(http://i.imgur.com/ud13DuF.gif);
+	visibility: hidden;
 }
 .torch {
 	visibility: hidden;
 }
 #playback-container {
-	visibility: hidden;
+	border: 1px #01fff9 solid;
 }
 #playback-container {
 	border-top: none;
@@ -244,5 +246,6 @@
 }
 /* Test */
 /* -CSS- */
+
 
 
