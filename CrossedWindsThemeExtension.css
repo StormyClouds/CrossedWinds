@@ -1,5 +1,5 @@
 #room-bar .bar-value{
- color:  #FF0000;
+ color:  #9612D9;
 }
 #room-name {
  text-shadow: 2px 1px 0px black;
@@ -83,62 +83,62 @@
 }
 /* Transparence */
 #app-menu.in-room {
- background-color: rgba(0, 0, 0, 0.30);
+ background-color: #5A0984;
 }
 .app-header {
-  background-color: rgba(0, 0, 0, 0.70);
+  background-color: #5A0984;
 }
 #history-button {
- background-color: rgba(0, 0, 0, 0.30);
+ background-color: #0A5F53;
  border-right: 1px solid black;
 }
 #rs-skip-button {
- background-color: rgba(0,0,0,0.3) !important; 
+ background-color: #6D0000 !important; 
  border-right: 1px solid black;
 }
 .app-right {
-  background: rgba(0,0,0,0.7) !important;
+  background: #12021B !important;
 }
 #chat-input {
  border-radius: 13px;
 }
 .friends {
- background: rgba(0,0,0,0.00) !important;
+ background: #110119 !important;
 }
 #room-settings {
- background: rgba(0, 0, 0, 0.90);
+ background: #0A011D;
 }
 #footer-user .info.showing {
- background-color: rgba(0, 0, 0, 0.90);
+ background-color: #150025;
 }
 #footer {
- background-color: rgba(0, 0, 0, 0.70);
+ background-color: #150025;
 }
 #dj-button {
- background: rgba(0, 0, 0, 0.70) none repeat scroll 0 0;
+ background: #0C0029 none repeat scroll 0 0;
 }
 /* Correction transparence */
 #app-menu.in-room.open {
- background-color: #1c1f25;
+ background-color: #63188C;
 }
 .header-panel-button {
- background-color: #1c1f25;
+ background-color: #000000;
  border: 1px solid black;
 }
 .header-panel-button.selected {
- background-color: #0a0a0a;
+ background-color: #3E2500;
 }
 #chat-header {
- background-color: #3B0047;
+ background-color: #420052;
 }
 #user-lists .header {
- background-color: #0a0a0a;
+ background-color: #050148;
 }
 #waitlist .header {
- background-color: #0a0a0a;
+ background-color: #737500;
 }
 .friends .list-header {
- background-color: #0a0a0a;
+ background-color: #054A00;
 }
 #rcs-menu .header {
  background-color: #0a0a0a;
@@ -198,5 +198,5 @@
  border-radius: 5px;
 }
 #meh, #grab, #woot {
- border-radius: 6px;
+ border-radius: 9px;
 }
