@@ -24,7 +24,7 @@
 	visibility: hidden;
 }
 #playback-container {
-	border: 1px #a832ff solid;
+	visibility: hidden;
 }
 #playback-container {
 	border-top: none;
