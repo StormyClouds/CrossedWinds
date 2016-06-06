@@ -1,0 +1,248 @@
+/* Created By Stormy Clouds */
+/* ------------------- */
+#room-bar .icon-room {
+	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/bouton.png);
+}
+#room-bar .bar-value{
+	color: #00dfff;
+}
+#room-name {
+	text-shadow: 2px 1px 0px black;
+}
+#room-host {
+	opacity: 0.5;
+}
+#room-host:hover {
+	opacity: 1;
+	cursor: help;
+}
+/* PlayBack */
+#playback .background img {
+	visibility: hidden;
+}
+.torch {
+	visibility: hidden;
+}
+#playback-container {
+	border: 1px #01fff9 solid;
+}
+#playback-container {
+	border-top: none;
+}
+#playback-container {
+	background-color: rgba(0, 0, 0, 0.80);
+	box-shadow: 0px 3px 12px 0px rgba(50, 50, 50, 0.75);
+}
+/* Icones Grades et Couleurs Grades */
+.icon-chat-ambassador + span {
+	color: #46E065;
+}
+/*.group.host {
+	color: #FF446A;
+} */
+.icon-chat-host {
+	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/host.png);
+}
+.icon-chat-host + span {
+	color: #46E065 !important;
+}
+.groupe.cohost {
+	color: #DBFF57;
+}
+.icon-chat-cohost {
+	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/co-host.png);
+}
+.icon-chat-cohost + span {
+	color: #DBFF57 !important;
+}
+.group.manager {
+    color: #FFB14A;
+}
+.icon-chat-manager {
+    background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/manager.png);
+}
+.icon-chat-manager + span {
+	color: #FFB14A !important;
+}
+.group.bouncer {
+	color: #ff446a;
+}
+.icon-chat-bouncer {
+	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/bouncer.png);
+}
+.icon-chat-bouncer + span {
+	color: #ff446a !important;
+}
+.group.dj {
+	color: #DF6BFF;
+}
+.icon-chat-dj {
+	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/djrs.png);
+}
+.icon-chat-dj + span {
+	color: #DF6BFF !important;
+}
+.icon.icon-chat-subscriber {
+	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/subscriber.png);
+}
+.icon.icon-chat-subscriber + span {
+	color: #C59840;
+}
+.icon.icon-chat-silver-subscriber {
+	background: url(https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/subscriber-silver.png) ;
+}
+.icon.icon-chat-silver-subscriber + span.name {
+	color: #8694b2 !important;
+}
+.is-subscriber.silver .name {
+	color: #8694b2 !important;
+}
+#chat .from .un {
+	color: #42A5DC;
+}
+#waitlist .user {
+	color: #42A5DC;
+}
+/* Transparence */
+#app-menu.in-room {
+	background-color: rgba(0, 0, 0, 0.30);
+}
+.app-header {
+	background-color: rgba(0, 0, 0, 0.70);
+}
+#history-button {
+	background-color: rgba(0, 0, 0, 0.30);
+	border-right: 1px solid black;
+}
+#rs-skip-button {
+	background-color: rgba(0,0,0,0.3) !important; 
+	border-right: 1px solid black;
+}
+.app-right {
+	background: rgba(0,0,0,0.7) !important;
+}
+#chat-input {
+	border-radius: 13px;
+}
+.friends {
+	background: rgba(0,0,0,0.00) !important;
+}
+#room-settings {
+	background: rgba(0, 0, 0, 0.90);
+}
+#footer-user .info.showing {
+	background-color: rgba(0, 0, 0, 0.90);
+}
+#footer {
+	background-color: rgba(0, 0, 0, 0.70);
+}
+#dj-button {
+	background: rgba(0, 0, 0, 0.70) none repeat scroll 0 0;
+}
+#playlist-panel {
+	background: rgba(0, 0, 0, 0.90);
+}
+#playlist-menu {
+	background: rgba(0, 0, 0, 0.20);	
+}
+/* Correction transparence */
+#app-menu.in-room.open {
+	background-color: #1c1f25;
+}
+.header-panel-button {
+	background-color: #1c1f25;
+	border: 1px solid black;
+}
+.header-panel-button.selected {
+	background-color: #0a0a0a;
+}
+#chat-header {
+	background-color: #0a0a0a;
+}	
+#user-lists .header {
+	background-color: #0a0a0a;
+}
+#waitlist .header {
+	background-color: #0a0a0a;
+}
+.friends .list-header {
+	background-color: #0a0a0a;
+}
+#rcs-menu .header {
+	background-color: #0a0a0a;
+}
+/* Modif Menu Rcs */
+#rcs-found-update {
+	color: #FF0027;
+}
+#rcs-group-mf {
+	color: #FF0027;
+}
+#rcs-group-cn {
+	color: #FF0027;
+}
+#rcs-group-s {
+	color: #FF0027;
+}
+#rcs-group-c {
+	color: #FF0027;
+}
+#rcs-group-m {
+	color: #FF0027;
+}	
+#rcs-menu-container .group {
+	color: #FF0027;
+}
+#rcs-appright-button {
+	opacity: 0.7;
+}
+#rcs-appright-button:hover {
+	opacity: 1;
+}
+#rcs-appright-button.header-panel-button.selected {
+	opacity: 1;
+}
+/* --- */
+#chat .cm.deletable .delete-button {
+	border-radius: 4px;
+	background: linear-gradient(hsl(0,0%,30%), hsl(0,0%,40%));
+}
+#chat .cm.deletable .delete-button:hover {
+	background: linear-gradient(hsl(179,100%,50%), hsl(189,100%,50%));
+	box-shadow: 0 0 10px hsl(189,100%,50%);
+	color: black;
+}
+#chat-input {
+	box-shadow: 0px 0px 15px 0px rgba(0,249,180,0.5);
+	transition: box-shadow 1s; 
+}
+#chat-input:hover {
+	box-shadow: 0px 0px 15px 0px rgba(0,249,180,0.95)
+}
+#chat-input.focused {
+	box-shadow: 0px 0px 15px 0px rgba(0,249,180,0.95) !important;
+}
+#footer-user .buttons .button .count, #user-menu .item .count, #friends-button .request-count, #user-friends .tab-menu button .count, .app-right .friends .header i{
+	background: #088da5 none repeat scroll 0 0;
+}
+#user-menu .item.selected {
+	background: #32234c none repeat scroll 0 0 !important;
+}
+#dj-button .left {
+	border-radius: 5px;
+}
+#meh, #grab, #woot {
+	border-radius: 6px;
+}
+#app-menu .button i:after {
+	opacity: 0;
+}
+.icon.icon-twitter-selected, .icon.icon-facebook-selected, .icon.icon-chat-sound-on, .icon.icon-chat-sound-off, .icon.icon-emoji-on, .icon.icon-emoji-off, .icon.icon-timestamps-24, .icon.icon-timestamps-off, .icon.icon-timestamps-12, .icon.icon-mention-off, .icon.icon-mention, .icon.icon-radiant-clearchat, .icon.icon-grab, .icon.icon-star-white                                    
+{
+	transition: transform 3s;
+	transform: rotate(360deg)
+}
+/* Test */
+/* -CSS- */
+
+
