@@ -1,7 +1,7 @@
 /* Created By Stormy Clouds */
 /* ------------------- */
 #room-bar .icon-room {
-	background: url(http://i.imgur.com/ud13DuF.gif);
+	background: url(https://i.imgur.com/ud13DuF.gif);
 }
 #room-bar .bar-value{
 	color: #9612D9;
@@ -18,7 +18,7 @@
 }
 /* PlayBack */
 #playback .background img {
-	background: url(http://i.imgur.com/Mxj1yzd.png);
+	background: url(https://i.imgur.com/Mxj1yzd.png);
 }
 .torch {
 	visibility: hidden;
@@ -33,7 +33,7 @@
 	color: #00D8BF;
 }
 .icon-chat-host {
-	background: url(http://i.imgur.com/4O2bpFE.png);
+	background: url(https://i.imgur.com/4O2bpFE.png);
 }
 .icon-chat-host + span {
 	color: #00D8BF !important;
@@ -51,7 +51,7 @@
     color: #6600FF;
 }
 .icon-chat-manager {
-    background: url(http://i.imgur.com/ftFd7uo.png);
+    background: url(https://i.imgur.com/ftFd7uo.png);
 }
 .icon-chat-manager + span {
 	color: #6600FF !important;
@@ -60,7 +60,7 @@
 	color: #9933FF;
 }
 .icon-chat-bouncer {
-	background: url(http://i.imgur.com/0yBcyTs.png);
+	background: url(https://i.imgur.com/0yBcyTs.png);
 }
 .icon-chat-bouncer + span {
 	color: #9933FF !important;
@@ -69,19 +69,19 @@
 	color: #FF00FF;
 }
 .icon-chat-dj {
-	background: url(http://i.imgur.com/YSzVs24.png);
+	background: url(https://i.imgur.com/YSzVs24.png);
 }
 .icon-chat-dj + span {
 	color: #FF00FF !important;
 }
 .icon.icon-chat-subscriber {
-	background: url(http://i.imgur.com/WUkdVqo.png);
+	background: url(https://i.imgur.com/WUkdVqo.png);
 }
 .icon.icon-chat-subscriber + span {
 	color: #ECBE04;
 }
 .icon.icon-chat-silver-subscriber {
-	background: url(http://i.imgur.com/NUrJJJv.png) ;
+	background: url(https://i.imgur.com/NUrJJJv.png) ;
 }
 .icon.icon-chat-silver-subscriber + span.name {
 	color: #F0F0F0 !important;
