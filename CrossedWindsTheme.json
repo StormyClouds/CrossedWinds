@@ -1,7 +1,7 @@
 {
     "room": "Crossed Winds",
     "author": "Stormy Clouds",
-    "icon": "http://i.imgur.com/ud13DuF.gif",
+    "icon": "https://i.imgur.com/ud13DuF.gif",
     "css": "https://dl.dropboxusercontent.com/s/3dt5pzfwuggxuvu/CWThemeExtension.css",
     "rules": {
         "allowAutorespond": true,
@@ -27,20 +27,19 @@
         "user": "#B1B1B1"
     },
     "images": {
-        "background": "http://i.imgur.com/zSMRtE6.png",
-        "playback": "http://i.imgur.com/Mxj1yzd.png",
-        "admin": "http://i.imgur.com/JFsn5HY.png",
-        "ambassador": "http://i.imgur.com/QHZ2cP3.png",
-        "host": "http://i.imgur.com/4O2bpFE.png",
-        "cohost": "http://i.imgur.com/AHw4sjR.png",
-        "manager": "http://i.imgur.com/ftFd7uo.png",
-        "bouncer": "http://i.imgur.com/0yBcyTs.png",
-        "rdj": "http://i.imgur.com/YSzVs24.png",
-        "subscriber": "http://i.imgur.com/WUkdVqo.png",
-        "silversubscriber": "http://i.imgur.com/NUrJJJv.png"
+        "background": "https://i.imgur.com/zSMRtE6.png",
+        "playback": "https://i.imgur.com/Mxj1yzd.png",
+        "admin": "https://i.imgur.com/JFsn5HY.png",
+        "ambassador": "https://i.imgur.com/QHZ2cP3.png",
+        "host": "https://i.imgur.com/4O2bpFE.png",
+        "cohost": "https://i.imgur.com/AHw4sjR.png",
+        "manager": "https://i.imgur.com/ftFd7uo.png",
+        "bouncer": "https://i.imgur.com/0yBcyTs.png",
+        "rdj": "https://i.imgur.com/YSzVs24.png",
+        "subscriber": "https://i.imgur.com/WUkdVqo.png",
+        "silversubscriber": "https://i.imgur.com/NUrJJJv.png"
     },
     "autocomplete": [],
     "emotes": {
-        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
     }
 }
