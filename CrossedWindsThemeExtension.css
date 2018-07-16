@@ -18,7 +18,14 @@
 }
 /* PlayBack */
 #playback .background img {
-	background: url(https://i.imgur.com/Mxj1yzd.png);
+	background: url(https://i.imgur.com/cGzybO0.png);
+}
+#avatars-container::before {
+    content: url(https://i.imgur.com/V2qflAA.png);
+    position: absolute;
+    bottom: -60px;
+    left:90px;
+    z-index: 2;
 }
 .torch {
 	visibility: hidden;
