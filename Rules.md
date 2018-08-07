@@ -5,7 +5,7 @@ Rules
 
 |Rule Broken| Description | Punishment |
 |:------:|:---------:|:--------------------------------------:|
-|#1 | Asking For a Staff Position. | Cannot/Less Likely to Become Staff. |
+|#1 | Begging For a Staff Position.(You must be a RDJ in order to ask for staff) | Cannot/Less Likely to Become Staff. |
 |#2 | Songs Longer than 6 Minutes. | Autoskipped |
 |#3 | Spamming the Chat | Mute |
 |#4 | Excessive swearing, arguments, or offensive/inappropriate comments.  | Mute |
